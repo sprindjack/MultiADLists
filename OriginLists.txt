@@ -4,4 +4,3 @@ https://gitee.com/halflife/list/raw/master/ad.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt
 https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
-https://adaway.org/hosts.txt
