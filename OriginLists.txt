@@ -1,0 +1,10 @@
+https://gitee.com/halflife/list/raw/master/ad.txt
+https://cdn.jsdelivr.net/gh/vokins/yhosts/hosts
+https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt
+https://gitee.com/privacy-protection-tools/anti-ad/raw/master/easylist.txt
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://adaway.org/hosts.txt
+https://hosts.nfz.moe/full/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
