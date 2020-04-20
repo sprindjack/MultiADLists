@@ -30,7 +30,7 @@ jobs:
       run: wget -i OriginLists.txt
       
     - name: Cat all the files
-      run:
+      run: cat *.txt Result.txt
     - name: DeDuplicate
       run: chmod +x dedup.sh
            sudo ./dedup.sh
