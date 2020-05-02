@@ -30,6 +30,7 @@ jobs:
       run: |
         chmod +x dedup.sh
         sudo ./dedup.sh
+        
     - name: Dontblock
       run: \
         chmod +x dontblock.sh
