@@ -30,6 +30,10 @@ jobs:
       run: |
         chmod +x dedup.sh
         sudo ./dedup.sh
+    - name: Dontblock
+      run: \
+        chmod +x dontblock.sh
+        sudo ./dontblock.sh
         
     - name: Upload to release
       uses: svenstaro/upload-release-action@v1-release
